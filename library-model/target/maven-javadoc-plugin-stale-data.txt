@@ -1,0 +1,43 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/kurap/Desktop/library-parent/library-model/src/main/java'
+-author
+-bottom
+'Copyright &#169; 1980. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/kurap/Desktop/library-parent/library-model/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'library-model 1.0.0 API'
+-notimestamp
+-use
+-version
+-windowtitle
+'library-model 1.0.0 API'
+com.example.library.model
+C:\Users\kurap\Desktop\library-parent\library-model\src\main\java = 1795229071388
+C:\Users\kurap\Desktop\library-parent\library-model\target\reports\apidocs\allclasses-index.html = 1795230840485
+C:\Users\kurap\Desktop\library-parent\library-model\target\reports\apidocs\allpackages-index.html = 1795230840492
+C:\Users\kurap\Desktop\library-parent\library-model\target\reports\apidocs\element-list = 1795230840374
+C:\Users\kurap\Desktop\library-parent\library-model\target\reports\apidocs\help-doc.html = 1795230840563
+C:\Users\kurap\Desktop\library-parent\library-model\target\reports\apidocs\index-all.html = 1795230840537
+C:\Users\kurap\Desktop\library-parent\library-model\target\reports\apidocs\index.html = 1795230840551
+C:\Users\kurap\Desktop\library-parent\library-model\target\reports\apidocs\member-search-index.js = 1795230840509
+C:\Users\kurap\Desktop\library-parent\library-model\target\reports\apidocs\module-search-index.js = 1795230840496
+C:\Users\kurap\Desktop\library-parent\library-model\target\reports\apidocs\overview-tree.html = 1795230840459
+C:\Users\kurap\Desktop\library-parent\library-model\target\reports\apidocs\package-search-index.js = 1795230840501
+C:\Users\kurap\Desktop\library-parent\library-model\target\reports\apidocs\search.html = 1795230840546
+C:\Users\kurap\Desktop\library-parent\library-model\target\reports\apidocs\tag-search-index.js = 1795230840513
+C:\Users\kurap\Desktop\library-parent\library-model\target\reports\apidocs\type-search-index.js = 1795230840505

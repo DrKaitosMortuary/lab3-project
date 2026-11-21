@@ -1,0 +1,46 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-classpath
+'C:/Users/kurap/.m2/repository/com/example/library-model/1.0.0/library-model-1.0.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/kurap/Desktop/library-parent/library-app/src/main/java'
+-author
+-bottom
+'Copyright &#169; 1980. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/kurap/Desktop/library-parent/library-app/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'library-app 1.0.0 API'
+-notimestamp
+-use
+-version
+-windowtitle
+'library-app 1.0.0 API'
+com.example.library.app
+C:\Users\kurap\.m2\repository\com\example\library-model\1.0.0\library-model-1.0.0.jar = 1795230747810
+C:\Users\kurap\Desktop\library-parent\library-app\src\main\java = 1795229087818
+C:\Users\kurap\Desktop\library-parent\library-app\target\reports\apidocs\allclasses-index.html = 1795230843604
+C:\Users\kurap\Desktop\library-parent\library-app\target\reports\apidocs\allpackages-index.html = 1795230843612
+C:\Users\kurap\Desktop\library-parent\library-app\target\reports\apidocs\element-list = 1795230843478
+C:\Users\kurap\Desktop\library-parent\library-app\target\reports\apidocs\help-doc.html = 1795230843690
+C:\Users\kurap\Desktop\library-parent\library-app\target\reports\apidocs\index-all.html = 1795230843660
+C:\Users\kurap\Desktop\library-parent\library-app\target\reports\apidocs\index.html = 1795230843675
+C:\Users\kurap\Desktop\library-parent\library-app\target\reports\apidocs\member-search-index.js = 1795230843635
+C:\Users\kurap\Desktop\library-parent\library-app\target\reports\apidocs\module-search-index.js = 1795230843619
+C:\Users\kurap\Desktop\library-parent\library-app\target\reports\apidocs\overview-tree.html = 1795230843574
+C:\Users\kurap\Desktop\library-parent\library-app\target\reports\apidocs\package-search-index.js = 1795230843625
+C:\Users\kurap\Desktop\library-parent\library-app\target\reports\apidocs\search.html = 1795230843668
+C:\Users\kurap\Desktop\library-parent\library-app\target\reports\apidocs\tag-search-index.js = 1795230843640
+C:\Users\kurap\Desktop\library-parent\library-app\target\reports\apidocs\type-search-index.js = 1795230843630
